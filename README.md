@@ -14,22 +14,22 @@
 
 ### **Назначение основных признаков**
 
-- OrderID —
-- CustomerID —
-- OrderDate —
-- CustomerAge —
-- Gender —
-- City —
-- Category —
-- Product —
-- Quantity —
-- UnitPrice —
-- Discount — 
-- PaymentMethod —
-- OrderStatus —
-- DeliveryDate —
-- Rating —
-- TotalAmount —
+- OrderID — уникальный идентификатор заказа
+- CustomerID — уникальный идентификатор пользователя
+- OrderDate — дата оформления заказа
+- CustomerAge — возраст покупателя
+- Gender — пол покупателя
+- City — город 
+- Category — категория товара
+- Product — товар
+- Quantity — количество единиц товара в заказе
+- UnitPrice — цена за одну единицу товара
+- Discount — скидка, примененная к заказу
+- PaymentMethod — метод платежа
+- OrderStatus — статус заказа
+- DeliveryDate — дата доставки
+- Rating — оценка, которую поставил покупатель
+- TotalAmount — итоговая сумма заказа
 
 ### **Целевое значение**
 
